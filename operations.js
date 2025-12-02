@@ -5,7 +5,7 @@ var suma = function suma (a, b) {
 
 /* Función resta */
 var resta = function resta (a, b) {
-	return a - b;	
+	return a + b;	
 };
 
 /* Exportación de funciones */
